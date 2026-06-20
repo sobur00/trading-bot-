@@ -218,4 +218,4 @@ while True:
     except Exception as e:
         print("Main Loop Error:", e)
 
-    time.sleep(10)
+    time.sleep(30)
